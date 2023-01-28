@@ -1,0 +1,12 @@
+﻿*Arama işlemi
+*Yardım popup
+*Üyelik sistem
+*Identity
+//*Footer
+*Ayarlar
+*Çıkış yap
+*Giriş yap
+*Yeni üye kaydı
+*Admin --> AspNet User
+*Publish
+*Projenin canlıya taşınması

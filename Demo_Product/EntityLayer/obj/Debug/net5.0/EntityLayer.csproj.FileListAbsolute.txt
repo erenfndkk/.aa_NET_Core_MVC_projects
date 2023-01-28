@@ -1,0 +1,24 @@
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\findi\Desktop\Eren\Projeler\Demo_Product\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\findi\Desktop\Eren\Projeler\poje2\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\Demo_Product\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

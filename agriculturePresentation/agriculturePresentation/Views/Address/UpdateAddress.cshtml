@@ -1,0 +1,48 @@
+﻿@model EntityLayer.Concreate.Adress
+@{
+    ViewData["Title"] = "UpdateAddress";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h1>UpdateAddress</h1>
+
+
+
+
+<div class="col-12 grid-margin stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Update Address page</h4>
+                  <form class="forms-sample" method="post">
+                    <div class="form-group">
+                    @Html.HiddenFor(x => x.AdressID)
+                      <label for="exampleInputName1">Description1</label>
+                      <span asp-validation-for="Description1" class="text-danger"></span>
+                      <input type="text" class="form-control"  placeholder="Description1" asp-for="Description1">
+                      <br />
+                       <label for="exampleInputName1">Description2</label>
+                      <span asp-validation-for="Description2" class="text-danger"></span>
+                      <input type="text" class="form-control"  placeholder="Description2" asp-for="Description2">
+                      <br />
+                       <label for="exampleInputName1">Description3</label>
+                      <span asp-validation-for="Description3" class="text-danger"></span>
+                      <input type="text" class="form-control"  placeholder="Description3" asp-for="Description3">
+                      <br />
+                       <label for="exampleInputName1">Description4</label>
+                      <span asp-validation-for="Description4" class="text-danger"></span>
+                      <input type="text" class="form-control"  placeholder="Description4" asp-for="Description4">
+                      <br />
+
+                      <label for="exampleInputName1">mapinfo</label>
+                      <span asp-validation-for="Mapinfo" class="text-danger"></span>
+                      <input type="text" class="form-control"  placeholder="mapinfo" asp-for="Mapinfo">
+                      <br />
+                    </div>
+
+                    <br />
+                    <button type="submit" class="btn btn-primary me-2">Update</button>
+                </form>
+                </div>
+              </div>
+            </div>
+

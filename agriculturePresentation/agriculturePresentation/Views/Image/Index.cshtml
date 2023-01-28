@@ -1,0 +1,39 @@
+﻿@using EntityLayer.Concreate
+@model List<Image>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Image List</h4>
+                  <div class="table-responsive">
+                    <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th>#</th>
+                          <th>Title</th>
+                          <th>Delete</th>
+                          <th>Update</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach (var item in Model)
+                            {
+                            <tr>
+                              <td class="py-1"><img src="@item.ImageUrl" alt="image"/></td>
+                              <td>@item.Title</td>
+                              <td><a href="/Image/DeleteImage/@item.ImageID" class="btn btn-outline-danger">Delete</a></td>
+                              <td><a href="/Image/UpdateImage/@item.ImageID" class="btn btn-outline-success">Update</a></td>
+                            </tr>
+                            }
+                      </tbody>
+                    </table>
+                    <br />
+                    <a href="/Image/AddImage/" class="btn btn-success">New Image Entry</a>
+                  </div>
+                </div>
+              </div>
